@@ -1,0 +1,3 @@
+[submodule "submodules/newrepo"]
+	path = submodules/newrepo
+	url = https://github.com/bhavya0607/newrepo.git
