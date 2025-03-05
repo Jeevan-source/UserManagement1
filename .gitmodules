@@ -1,0 +1,6 @@
+[submodule "submodules/database-repo"]
+	path = submodules/database-repo
+	url = https://github.com/Kiran212-sketch/database-repo.git
+[submodule "submodules/newrepo"]
+	path = submodules/newrepo
+	url = https://github.com/bhavya0607/newrepo.git
