@@ -1,3 +1,9 @@
 [submodule "submodules/newrepo"]
 	path = submodules/newrepo
 	url = https://github.com/bhavya0607/newrepo.git
+[submodule "submodules/database-repo"]
+	path = submodules/database-repo
+	url = https://github.com/Kiran212-sketch/database-repo.git
+[submodule "submodules/User-management-data-base"]
+    path = submodules/User-management-data-base
+    url = https://github.com/Kiran212-sketch/User-management-data-base.git
