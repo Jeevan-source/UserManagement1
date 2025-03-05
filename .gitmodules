@@ -1,5 +1,2 @@
-[submodule "submodules/database-repo"]
-	path = submodules/database-repo
-	url = https://github.com/Kiran212-sketch/database-repo.git
-
-
+nano .gitmodules
+nano .gitmodules
