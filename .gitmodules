@@ -4,3 +4,6 @@
 [submodule "submodules/suman-source"]
 	path = submodules/suman-source
 	url = https://github.com/sumankorrapati46/suman-source.git
+[submodule "submodules/newrepo"]
+	path = submodules/newrepo
+	url = https://github.com/bhavya0607/newrepo.git
