@@ -4,3 +4,6 @@
 [submodule "submodules/newrepo"]
 	path = submodules/newrepo
 	url = https://github.com/bhavya0607/newrepo.git
+[submodule "frontend/userprofile"]
+	path = frontend/userprofile
+	url = https://github.com/sumankorrapati46/suman-userprofile.git
