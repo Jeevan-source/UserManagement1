@@ -4,6 +4,3 @@
 [submodule "submodules/newrepo"]
 	path = submodules/newrepo
 	url = https://github.com/bhavya0607/newrepo.git
-[submodule "submodules/suman-userprofile"]
-	path = submodules/suman-userprofile
-	url = https://github.com/sumankorrapati46/suman-userprofile.git
